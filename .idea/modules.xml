@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lista_contatos/lista_contatos.iml" filepath="$PROJECT_DIR$/lista_contatos/lista_contatos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/lista_contatos1.iml" filepath="$PROJECT_DIR$/.idea/lista_contatos1.iml" />
+    </modules>
+  </component>
+</project>
